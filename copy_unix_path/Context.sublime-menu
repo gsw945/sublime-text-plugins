@@ -1,0 +1,7 @@
+[
+    {"caption": "-", "id": "file"},
+    {
+        "command": "copy_unix_path",
+        "caption": "复制文件路径(Unix风格)"
+    }
+]
