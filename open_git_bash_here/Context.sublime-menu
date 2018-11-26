@@ -1,0 +1,7 @@
+[
+    {"caption": "-", "id": "file"},
+    {
+        "command": "open_git_bash_here",
+        "caption": "Open Git-Bash Here..."
+    }
+]
